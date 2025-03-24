@@ -15,6 +15,15 @@ from transformers import AutoTokenizer, AutoModel
 import whisper
 from utils import extract_and_save_features
 from vncorenlp import VnCoreNLP
+from transformers import pipeline
+
+
+transcriber = pipeline(
+    "automatic-speech-recognition",
+    model="vinai/PhoWhisper-small",
+    device='cuda'
+)
+
 device = 'cuda'
 whisper_model = whisper.load_model("base",device=device)
 tokenizer = AutoTokenizer.from_pretrained("/data/npl/ICEK/model/phobert-base")
@@ -116,8 +125,8 @@ def extract_and_save_features(video_path, features_dir, whisper_model, tokenizer
         audio = video.audio
         if audio is not None:
             audio.write_audiofile(audio_path, logger=None)
-            result = whisper_model.transcribe(audio_path, language='vi')
-            text = result['text']
+            result = transcriber(audio_path)
+            text = result["text"]
 
             if text.strip() != "":
                 segmented_sentences = rdrsegmenter.tokenize(text)
