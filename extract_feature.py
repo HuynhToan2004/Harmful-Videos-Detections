@@ -14,7 +14,7 @@ from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModel
 import whisper
 from utils import extract_and_save_features
-
+from vncorenlp import VnCoreNLP
 device = 'cuda'
 whisper_model = whisper.load_model("base",device=device)
 tokenizer = AutoTokenizer.from_pretrained("/data/npl/ICEK/model/phobert-base")
@@ -24,6 +24,12 @@ text_model.to(device)
 
 root_dir = '/data/npl/ICEK/News/DL/data/data/data_video/test_final' 
 features_dir = '/data/npl/ICEK/News/DL/data_feature/test'
+
+rdrsegmenter = VnCoreNLP(
+    jar_path="VnCoreNLP-1.1.1.jar",
+    annotators="wseg",
+    max_heap_size="-Xmx500m"
+)
 
 
 
@@ -114,8 +120,10 @@ def extract_and_save_features(video_path, features_dir, whisper_model, tokenizer
             text = result['text']
 
             if text.strip() != "":
+                segmented_sentences = rdrsegmenter.tokenize(text)
+                segmented_text = " ".join(["_".join(sent) for sent in segmented_sentences])
                 inputs = tokenizer(
-                    text, 
+                    segmented_text, 
                     return_tensors="pt", 
                     padding='max_length', 
                     truncation=True, 
