@@ -2,22 +2,18 @@ import cv2
 import librosa
 import numpy as np
 import os
+os.environ["IMAGEIO_FFMPEG_EXE"] = "/Harmful-Videos-Detections/ffmpeg/bin/ffmpeg"
 from moviepy.editor import VideoFileClip
 import torch
 from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms
-import torch.nn as nn
-from torchvision import models
-from torchvision.models import ResNet50_Weights
-import torch.optim as optim
-from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModel
 import whisper
 import tempfile
 
-whisper_model = whisper.load_model("base")  
-tokenizer = AutoTokenizer.from_pretrained("/data/npl/ICEK/model/phobert-base")
-text_model = AutoModel.from_pretrained("/data/npl/ICEK/model/phobert-base")
+whisper_model = whisper.load_model("large")  
+tokenizer = AutoTokenizer.from_pretrained("/assets/phobert-base")
+text_model = AutoModel.from_pretrained("/assets/phobert-base")
 text_model.eval() 
 
 
@@ -184,6 +180,29 @@ transform = ToTensorNormalize(mean=[0.485, 0.456, 0.406],
 
 
 
+class PreExtractedFeatureDataset(Dataset):
+    def __init__(self, feature_dir):
+        self.feature_paths = []
+        self.labels = []
+        self.class_to_idx = {cls: idx for idx, cls in enumerate(sorted(os.listdir(feature_dir)))}
+        
+        for cls in sorted(os.listdir(feature_dir)):
+            cls_path = os.path.join(feature_dir, cls)
+            for file in os.listdir(cls_path):
+                if file.endswith('.pt'):
+                    self.feature_paths.append(os.path.join(cls_path, file))
+                    self.labels.append(self.class_to_idx[cls])
+
+    def __len__(self):
+        return len(self.feature_paths)
+
+    def __getitem__(self, idx):
+        feature = torch.load(self.feature_paths[idx])
+        frames = feature['frames']
+        mfcc = feature['mfcc']
+        text_embedding = feature['text_embedding']
+        label = self.labels[idx]
+        return frames, mfcc, text_embedding, label
 
 
 
@@ -207,155 +226,3 @@ normalize_transform = NormalizeVideoFrames(
     std =[0.229, 0.224, 0.225]
 )
 
-
-class VideoDatasetAvailabelFeature(Dataset):
-    def __init__(self, root_dir, features_dir, transform=normalize_transform):
-        """
-        root_dir: chứa video gốc (chỉ để lấy danh sách + label).
-        features_dir: thư mục chứa file .pt (xxx_visual.pt, xxx_audio.pt, xxx_text.pt).
-        transform: gọi để thực hiện Normalize/augment trên visual_feat (nếu cần).
-        """
-        self.root_dir = root_dir
-        self.features_dir = features_dir
-        self.transform = transform
-        
-        self.classes = sorted(os.listdir(root_dir))
-        self.class_to_idx = {cls_name: idx for idx, cls_name in enumerate(self.classes)}
-        self.video_paths = []
-        self.labels = []
-
-        for cls in self.classes:
-            cls_dir = os.path.join(root_dir, cls)
-            if not os.path.isdir(cls_dir):
-                continue
-            for file in os.listdir(cls_dir):
-                if file.endswith(('.mp4', '.avi', '.mov')):
-                    self.video_paths.append(os.path.join(cls_dir, file))
-                    self.labels.append(self.class_to_idx[cls])
-
-    def __len__(self):
-        return len(self.video_paths)
-
-    def __getitem__(self, idx):
-        video_path = self.video_paths[idx]
-        label = self.labels[idx]
-        video_id = os.path.splitext(os.path.basename(video_path))[0]
-
-        # Load visual
-        visual_pt = os.path.join(self.features_dir, f"{video_id}_visual.pt")
-        visual_feat = torch.load(visual_pt)  
-    
-        if self.transform:
-            visual_feat = self.transform(visual_feat)
-
-        # Load audio (MFCC)
-        audio_pt = os.path.join(self.features_dir, f"{video_id}_audio.pt")
-        audio_feat = torch.load(audio_pt)
-        
-
-        
-        text_pt = os.path.join(self.features_dir, f"{video_id}_text.pt")
-        text_feat = torch.load(text_pt)
-
-        return visual_feat, audio_feat, text_feat, label
-
-def extract_and_save_features(video_path, features_dir, whisper_model, tokenizer, text_model, n_mfcc=40, max_length=40, num_frames=30, resize=(224, 224)):
-    """
-    Trích xuất và lưu trữ các đặc trưng visual, audio và text từ một video.
-
-    Args:
-        video_path (str): Đường dẫn đến video gốc.
-        features_dir (str): Thư mục để lưu trữ các đặc trưng đã trích xuất.
-        whisper_model: Mô hình Whisper để trích xuất transcript từ audio.
-        tokenizer: Tokenizer của PhoBERT.
-        text_model: Mô hình PhoBERT để trích xuất embedding văn bản.
-        n_mfcc (int): Số lượng MFCC được trích xuất từ âm thanh.
-        max_length (int): Độ dài tối đa của chuỗi MFCC.
-        num_frames (int): Số lượng khung hình được trích xuất từ video.
-        resize (tuple): Kích thước để resize các khung hình (H, W).
-    """
-    video_id = os.path.splitext(os.path.basename(video_path))[0]
-    os.makedirs(features_dir, exist_ok=True)
-
-    # -----------------------------
-    # Trích xuất Visual Features
-    # -----------------------------
-    cap = cv2.VideoCapture(video_path)
-    frames = []
-    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-    interval = max(total_frames // num_frames, 1)
-
-    for i in range(0, total_frames, interval):
-        cap.set(cv2.CAP_PROP_POS_FRAMES, i)
-        ret, frame = cap.read()
-        if ret:
-            frame = cv2.resize(frame, resize)
-            frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-            frames.append(frame)
-        if len(frames) == num_frames:
-            break
-    cap.release()
-
-    # Nếu không đủ số khung hình, thêm các khung hình đen
-    while len(frames) < num_frames:
-        frames.append(np.zeros((resize[0], resize[1], 3), dtype=np.uint8))
-
-    frames = np.array(frames).transpose(0, 3, 1, 2) / 255.0  
-    frames_tensor = torch.tensor(frames, dtype=torch.float)
-    torch.save(frames_tensor, os.path.join(features_dir, f"{video_id}_visual.pt"))
-
-    # -----------------------------
-    # Trích xuất Audio Features
-    # -----------------------------
-    try:
-        video = VideoFileClip(video_path)
-        audio_path = os.path.join(features_dir, f"{video_id}_audio.wav")
-        audio = video.audio
-        if audio is not None:
-            audio.write_audiofile(audio_path, logger=None)
-            y, sr = librosa.load(audio_path, sr=None)
-            mfcc = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=n_mfcc)
-            # Đảm bảo rằng MFCC có đúng độ dài
-            if mfcc.shape[1] < max_length:
-                pad_width = max_length - mfcc.shape[1]
-                mfcc = np.pad(mfcc, pad_width=((0, 0), (0, pad_width)), mode='constant')
-            else:
-                mfcc = mfcc[:, :max_length]
-            mfcc_tensor = torch.tensor(mfcc, dtype=torch.float)
-            torch.save(mfcc_tensor, os.path.join(features_dir, f"{video_id}_audio.pt"))
-            os.remove(audio_path)  # Xóa file WAV sau khi trích xuất MFCC
-        else:
-            # Không có âm thanh
-            mfcc_tensor = torch.zeros(n_mfcc, max_length)
-            torch.save(mfcc_tensor, os.path.join(features_dir, f"{video_id}_audio.pt"))
-    except Exception as e:
-        print(f"Error processing audio for {video_id}: {e}")
-        mfcc_tensor = torch.zeros(n_mfcc, max_length)
-        torch.save(mfcc_tensor, os.path.join(features_dir, f"{video_id}_audio.pt"))
-
-    # -----------------------------
-    # Trích xuất Text Features
-    # -----------------------------
-    try:
-        video = VideoFileClip(video_path)
-        audio_path = os.path.join(features_dir, f"{video_id}_audio.wav")
-        audio = video.audio
-        if audio is not None:
-            audio.write_audiofile(audio_path, logger=None)
-            result = whisper_model.transcribe(audio_path, language='vi')
-            text = result['text']
-            if text.strip() != "":
-                inputs = tokenizer(text, return_tensors="pt", padding='max_length', truncation=True, max_length=128)
-                with torch.no_grad():
-                    text_embedding = text_model(**inputs).last_hidden_state[:, 0, :]  # [CLS] token
-            else:
-                text_embedding = torch.zeros(768)
-            torch.save(text_embedding.squeeze(0), os.path.join(features_dir, f"{video_id}_text.pt"))
-            os.remove(audio_path) 
-        else:
-            text_embedding = torch.zeros(768)
-            torch.save(text_embedding, os.path.join(features_dir, f"{video_id}_text.pt"))
-    except Exception as e:
-        print(f"Error processing text for {video_id}: {e}")
-        text_embedding = torch.zeros(768)
-        torch.save(text_embedding, os.path.join(features_dir, f"{video_id}_text.pt"))

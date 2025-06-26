@@ -1,0 +1,1826 @@
+{
+    "0102": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0102.mp4",
+        "label": "superstitious"
+    },
+    "0151": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0151.mp4",
+        "label": "superstitious"
+    },
+    "0176": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0176.mp4",
+        "label": "superstitious"
+    },
+    "0038": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0038.mp4",
+        "label": "normal"
+    },
+    "0003": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0003.mp4",
+        "label": "normal"
+    },
+    "0039": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0039.mp4",
+        "label": "normal"
+    },
+    "0107": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0107.mp4",
+        "label": "normal"
+    },
+    "0026": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0026.mp4",
+        "label": "normal"
+    },
+    "0125": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0125.mp4",
+        "label": "superstitious"
+    },
+    "0129": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0129.mp4",
+        "label": "superstitious"
+    },
+    "0112": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0112.mp4",
+        "label": "normal"
+    },
+    "0144": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0144.mp4",
+        "label": "normal"
+    },
+    "0139": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0139.mp4",
+        "label": "superstitious"
+    },
+    "0117": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0117.mp4",
+        "label": "superstitious"
+    },
+    "0108": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0108.mp4",
+        "label": "superstitious"
+    },
+    "0078": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0078.mp4",
+        "label": "normal"
+    },
+    "0042": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0042.mp4",
+        "label": "normal"
+    },
+    "0021": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0021.mp4",
+        "label": "normal"
+    },
+    "0046": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0046.mp4",
+        "label": "normal"
+    },
+    "0093": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0093.mp4",
+        "label": "normal"
+    },
+    "0164": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0164.mp4",
+        "label": "normal"
+    },
+    "0123": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0123.mp4",
+        "label": "normal"
+    },
+    "0048": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0048.mp4",
+        "label": "normal"
+    },
+    "0008": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0008.mp4",
+        "label": "normal"
+    },
+    "0153": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0153.mp4",
+        "label": "superstitious"
+    },
+    "0005": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0005.mp4",
+        "label": "normal"
+    },
+    "0090": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0090.mp4",
+        "label": "normal"
+    },
+    "0062": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0062.mp4",
+        "label": "normal"
+    },
+    "0017": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0017.mp4",
+        "label": "normal"
+    },
+    "0152": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0152.mp4",
+        "label": "superstitious"
+    },
+    "0178": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0178.mp4",
+        "label": "superstitious"
+    },
+    "0061": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0061.mp4",
+        "label": "normal"
+    },
+    "0040": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0040.mp4",
+        "label": "normal"
+    },
+    "0055": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0055.mp4",
+        "label": "normal"
+    },
+    "0156": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0156.mp4",
+        "label": "superstitious"
+    },
+    "0158": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0158.mp4",
+        "label": "superstitious"
+    },
+    "0165": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0165.mp4",
+        "label": "normal"
+    },
+    "0128": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0128.mp4",
+        "label": "normal"
+    },
+    "0086": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0086.mp4",
+        "label": "normal"
+    },
+    "0155": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0155.mp4",
+        "label": "superstitious"
+    },
+    "0180": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0180.mp4",
+        "label": "superstitious"
+    },
+    "0079": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0079.mp4",
+        "label": "normal"
+    },
+    "0022": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0022.mp4",
+        "label": "normal"
+    },
+    "0091": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0091.mp4",
+        "label": "normal"
+    },
+    "0068": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0068.mp4",
+        "label": "normal"
+    },
+    "0085": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0085.mp4",
+        "label": "normal"
+    },
+    "0025": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0025.mp4",
+        "label": "normal"
+    },
+    "0020": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0020.mp4",
+        "label": "normal"
+    },
+    "0037": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0037.mp4",
+        "label": "normal"
+    },
+    "0065": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0065.mp4",
+        "label": "normal"
+    },
+    "0032": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0032.mp4",
+        "label": "normal"
+    },
+    "0113": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0113.mp4",
+        "label": "superstitious"
+    },
+    "0074": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0074.mp4",
+        "label": "normal"
+    },
+    "0030": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0030.mp4",
+        "label": "normal"
+    },
+    "0171": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0171.mp4",
+        "label": "superstitious"
+    },
+    "0136": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0136.mp4",
+        "label": "superstitious"
+    },
+    "0044": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0044.mp4",
+        "label": "normal"
+    },
+    "0173": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0173.mp4",
+        "label": "normal"
+    },
+    "0033": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0033.mp4",
+        "label": "normal"
+    },
+    "0066": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0066.mp4",
+        "label": "normal"
+    },
+    "0175": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0175.mp4",
+        "label": "normal"
+    },
+    "0116": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0116.mp4",
+        "label": "superstitious"
+    },
+    "0121": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0121.mp4",
+        "label": "normal"
+    },
+    "0115": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0115.mp4",
+        "label": "superstitious"
+    },
+    "0069": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0069.mp4",
+        "label": "normal"
+    },
+    "0059": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0059.mp4",
+        "label": "normal"
+    },
+    "0041": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0041.mp4",
+        "label": "normal"
+    },
+    "0181": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0181.mp4",
+        "label": "superstitious"
+    },
+    "0015": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0015.mp4",
+        "label": "normal"
+    },
+    "0064": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0064.mp4",
+        "label": "normal"
+    },
+    "0135": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0135.mp4",
+        "label": "superstitious"
+    },
+    "0053": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0053.mp4",
+        "label": "normal"
+    },
+    "0023": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0023.mp4",
+        "label": "normal"
+    },
+    "0132": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0132.mp4",
+        "label": "superstitious"
+    },
+    "0137": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0137.mp4",
+        "label": "normal"
+    },
+    "0012": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0012.mp4",
+        "label": "normal"
+    },
+    "0122": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0122.mp4",
+        "label": "normal"
+    },
+    "0146": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0146.mp4",
+        "label": "superstitious"
+    },
+    "0014": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0014.mp4",
+        "label": "normal"
+    },
+    "0154": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0154.mp4",
+        "label": "normal"
+    },
+    "0049": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0049.mp4",
+        "label": "normal"
+    },
+    "0099": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0099.mp4",
+        "label": "normal"
+    },
+    "0084": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0084.mp4",
+        "label": "normal"
+    },
+    "0177": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0177.mp4",
+        "label": "superstitious"
+    },
+    "0080": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0080.mp4",
+        "label": "normal"
+    },
+    "0142": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0142.mp4",
+        "label": "superstitious"
+    },
+    "0145": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0145.mp4",
+        "label": "superstitious"
+    },
+    "0127": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0127.mp4",
+        "label": "superstitious"
+    },
+    "0114": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0114.mp4",
+        "label": "normal"
+    },
+    "0057": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0057.mp4",
+        "label": "normal"
+    },
+    "0100": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0100.mp4",
+        "label": "normal"
+    },
+    "0058": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0058.mp4",
+        "label": "normal"
+    },
+    "0170": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0170.mp4",
+        "label": "superstitious"
+    },
+    "0073": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0073.mp4",
+        "label": "normal"
+    },
+    "0047": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0047.mp4",
+        "label": "normal"
+    },
+    "0097": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0097.mp4",
+        "label": "normal"
+    },
+    "0160": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0160.mp4",
+        "label": "normal"
+    },
+    "0006": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0006.mp4",
+        "label": "normal"
+    },
+    "0104": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0104.mp4",
+        "label": "normal"
+    },
+    "0016": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0016.mp4",
+        "label": "normal"
+    },
+    "0101": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0101.mp4",
+        "label": "normal"
+    },
+    "0174": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0174.mp4",
+        "label": "superstitious"
+    },
+    "0031": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0031.mp4",
+        "label": "normal"
+    },
+    "0063": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0063.mp4",
+        "label": "normal"
+    },
+    "0109": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0109.mp4",
+        "label": "superstitious"
+    },
+    "0161": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0161.mp4",
+        "label": "superstitious"
+    },
+    "0094": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0094.mp4",
+        "label": "normal"
+    },
+    "0140": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0140.mp4",
+        "label": "normal"
+    },
+    "0075": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0075.mp4",
+        "label": "normal"
+    },
+    "0133": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0133.mp4",
+        "label": "normal"
+    },
+    "0138": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0138.mp4",
+        "label": "normal"
+    },
+    "0150": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0150.mp4",
+        "label": "normal"
+    },
+    "0130": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0130.mp4",
+        "label": "superstitious"
+    },
+    "0045": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0045.mp4",
+        "label": "normal"
+    },
+    "0024": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0024.mp4",
+        "label": "normal"
+    },
+    "0096": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0096.mp4",
+        "label": "normal"
+    },
+    "0089": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0089.mp4",
+        "label": "normal"
+    },
+    "0148": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0148.mp4",
+        "label": "superstitious"
+    },
+    "0010": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0010.mp4",
+        "label": "normal"
+    },
+    "0018": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0018.mp4",
+        "label": "normal"
+    },
+    "0092": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0092.mp4",
+        "label": "normal"
+    },
+    "0159": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0159.mp4",
+        "label": "superstitious"
+    },
+    "0082": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0082.mp4",
+        "label": "normal"
+    },
+    "0168": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0168.mp4",
+        "label": "normal"
+    },
+    "0087": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0087.mp4",
+        "label": "normal"
+    },
+    "0083": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0083.mp4",
+        "label": "normal"
+    },
+    "0119": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0119.mp4",
+        "label": "superstitious"
+    },
+    "0056": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0056.mp4",
+        "label": "normal"
+    },
+    "0166": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0166.mp4",
+        "label": "superstitious"
+    },
+    "0126": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0126.mp4",
+        "label": "superstitious"
+    },
+    "0035": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0035.mp4",
+        "label": "normal"
+    },
+    "0157": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0157.mp4",
+        "label": "superstitious"
+    },
+    "0088": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0088.mp4",
+        "label": "normal"
+    },
+    "0110": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0110.mp4",
+        "label": "superstitious"
+    },
+    "0131": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0131.mp4",
+        "label": "normal"
+    },
+    "0002": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0002.mp4",
+        "label": "normal"
+    },
+    "0052": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0052.mp4",
+        "label": "normal"
+    },
+    "0141": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0141.mp4",
+        "label": "superstitious"
+    },
+    "0076": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0076.mp4",
+        "label": "normal"
+    },
+    "0013": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0013.mp4",
+        "label": "normal"
+    },
+    "0172": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0172.mp4",
+        "label": "superstitious"
+    },
+    "0163": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0163.mp4",
+        "label": "superstitious"
+    },
+    "0072": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0072.mp4",
+        "label": "normal"
+    },
+    "0054": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0054.mp4",
+        "label": "normal"
+    },
+    "0060": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0060.mp4",
+        "label": "normal"
+    },
+    "0179": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0179.mp4",
+        "label": "superstitious"
+    },
+    "0167": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0167.mp4",
+        "label": "superstitious"
+    },
+    "0071": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0071.mp4",
+        "label": "normal"
+    },
+    "0036": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0036.mp4",
+        "label": "normal"
+    },
+    "0106": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0106.mp4",
+        "label": "superstitious"
+    },
+    "0118": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0118.mp4",
+        "label": "normal"
+    },
+    "0001": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0001.mp4",
+        "label": "normal"
+    },
+    "0029": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0029.mp4",
+        "label": "normal"
+    },
+    "0011": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0011.mp4",
+        "label": "normal"
+    },
+    "0182": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0182.mp4",
+        "label": "superstitious"
+    },
+    "0098": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0098.mp4",
+        "label": "normal"
+    },
+    "0027": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0027.mp4",
+        "label": "normal"
+    },
+    "0004": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0004.mp4",
+        "label": "normal"
+    },
+    "0120": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0120.mp4",
+        "label": "superstitious"
+    },
+    "0105": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0105.mp4",
+        "label": "normal"
+    },
+    "0081": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0081.mp4",
+        "label": "normal"
+    },
+    "0111": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0111.mp4",
+        "label": "superstitious"
+    },
+    "0184": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0184.mp4",
+        "label": "superstitious"
+    },
+    "0009": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0009.mp4",
+        "label": "normal"
+    },
+    "0019": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0019.mp4",
+        "label": "normal"
+    },
+    "0169": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0169.mp4",
+        "label": "superstitious"
+    },
+    "0147": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0147.mp4",
+        "label": "superstitious"
+    },
+    "0134": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0134.mp4",
+        "label": "superstitious"
+    },
+    "0070": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0070.mp4",
+        "label": "normal"
+    },
+    "0162": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0162.mp4",
+        "label": "superstitious"
+    },
+    "0143": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0143.mp4",
+        "label": "superstitious"
+    },
+    "0103": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0103.mp4",
+        "label": "normal"
+    },
+    "0050": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0050.mp4",
+        "label": "normal"
+    },
+    "0067": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0067.mp4",
+        "label": "normal"
+    },
+    "0051": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0051.mp4",
+        "label": "normal"
+    },
+    "0028": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0028.mp4",
+        "label": "normal"
+    },
+    "0043": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0043.mp4",
+        "label": "normal"
+    },
+    "0124": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0124.mp4",
+        "label": "superstitious"
+    },
+    "0149": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0149.mp4",
+        "label": "superstitious"
+    },
+    "0034": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0034.mp4",
+        "label": "normal"
+    },
+    "0077": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0077.mp4",
+        "label": "normal"
+    },
+    "0183": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0183.mp4",
+        "label": "normal"
+    },
+    "0007": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0007.mp4",
+        "label": "normal"
+    },
+    "0095": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0095.mp4",
+        "label": "normal"
+    },
+    "0249": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0249.mp4",
+        "label": "normal"
+    },
+    "0196": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0196.mp4",
+        "label": "superstitious"
+    },
+    "0220": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0220.mp4",
+        "label": "normal"
+    },
+    "0247": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0247.mp4",
+        "label": "normal"
+    },
+    "0254": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0254.mp4",
+        "label": "normal"
+    },
+    "0251": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0251.mp4",
+        "label": "normal"
+    },
+    "0211": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0211.mp4",
+        "label": "normal"
+    },
+    "0185": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0185.mp4",
+        "label": "superstitious"
+    },
+    "0236": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0236.mp4",
+        "label": "normal"
+    },
+    "0233": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0233.mp4",
+        "label": "normal"
+    },
+    "0201": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0201.mp4",
+        "label": "normal"
+    },
+    "0248": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0248.mp4",
+        "label": "normal"
+    },
+    "0214": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0214.mp4",
+        "label": "normal"
+    },
+    "0226": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0226.mp4",
+        "label": "normal"
+    },
+    "0232": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0232.mp4",
+        "label": "normal"
+    },
+    "0221": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0221.mp4",
+        "label": "normal"
+    },
+    "0231": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0231.mp4",
+        "label": "normal"
+    },
+    "0207": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0207.mp4",
+        "label": "normal"
+    },
+    "0219": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0219.mp4",
+        "label": "normal"
+    },
+    "0242": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0242.mp4",
+        "label": "normal"
+    },
+    "0189": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0189.mp4",
+        "label": "superstitious"
+    },
+    "0229": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0229.mp4",
+        "label": "normal"
+    },
+    "0223": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0223.mp4",
+        "label": "normal"
+    },
+    "0243": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0243.mp4",
+        "label": "normal"
+    },
+    "0218": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0218.mp4",
+        "label": "normal"
+    },
+    "0210": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0210.mp4",
+        "label": "normal"
+    },
+    "0240": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0240.mp4",
+        "label": "normal"
+    },
+    "0215": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0215.mp4",
+        "label": "normal"
+    },
+    "0230": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0230.mp4",
+        "label": "normal"
+    },
+    "0245": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0245.mp4",
+        "label": "normal"
+    },
+    "0253": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0253.mp4",
+        "label": "normal"
+    },
+    "0213": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0213.mp4",
+        "label": "normal"
+    },
+    "0203": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0203.mp4",
+        "label": "normal"
+    },
+    "0188": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0188.mp4",
+        "label": "superstitious"
+    },
+    "0238": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0238.mp4",
+        "label": "normal"
+    },
+    "0216": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0216.mp4",
+        "label": "normal"
+    },
+    "0212": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0212.mp4",
+        "label": "normal"
+    },
+    "0198": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0198.mp4",
+        "label": "superstitious"
+    },
+    "0256": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0256.mp4",
+        "label": "normal"
+    },
+    "0255": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0255.mp4",
+        "label": "normal"
+    },
+    "0206": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0206.mp4",
+        "label": "normal"
+    },
+    "0244": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0244.mp4",
+        "label": "normal"
+    },
+    "0191": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0191.mp4",
+        "label": "superstitious"
+    },
+    "0205": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0205.mp4",
+        "label": "normal"
+    },
+    "0225": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0225.mp4",
+        "label": "normal"
+    },
+    "0192": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0192.mp4",
+        "label": "normal"
+    },
+    "0239": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0239.mp4",
+        "label": "normal"
+    },
+    "0235": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0235.mp4",
+        "label": "normal"
+    },
+    "0187": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0187.mp4",
+        "label": "normal"
+    },
+    "0186": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0186.mp4",
+        "label": "superstitious"
+    },
+    "0200": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0200.mp4",
+        "label": "normal"
+    },
+    "0197": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0197.mp4",
+        "label": "normal"
+    },
+    "0237": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0237.mp4",
+        "label": "normal"
+    },
+    "0217": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0217.mp4",
+        "label": "normal"
+    },
+    "0190": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0190.mp4",
+        "label": "superstitious"
+    },
+    "0250": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0250.mp4",
+        "label": "normal"
+    },
+    "0246": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0246.mp4",
+        "label": "normal"
+    },
+    "0222": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0222.mp4",
+        "label": "normal"
+    },
+    "0208": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0208.mp4",
+        "label": "normal"
+    },
+    "0195": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0195.mp4",
+        "label": "superstitious"
+    },
+    "0202": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0202.mp4",
+        "label": "normal"
+    },
+    "0194": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0194.mp4",
+        "label": "superstitious"
+    },
+    "0228": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0228.mp4",
+        "label": "normal"
+    },
+    "0193": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0193.mp4",
+        "label": "superstitious"
+    },
+    "0209": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0209.mp4",
+        "label": "normal"
+    },
+    "0241": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0241.mp4",
+        "label": "normal"
+    },
+    "0234": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0234.mp4",
+        "label": "normal"
+    },
+    "0204": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0204.mp4",
+        "label": "normal"
+    },
+    "0224": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0224.mp4",
+        "label": "normal"
+    },
+    "0252": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0252.mp4",
+        "label": "normal"
+    },
+    "0199": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0199.mp4",
+        "label": "superstitious"
+    },
+    "0227": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/normal/0227.mp4",
+        "label": "normal"
+    },
+    "0264": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0264.mp4",
+        "label": "violent"
+    },
+    "0277": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0277.mp4",
+        "label": "violent"
+    },
+    "0318": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0318.mp4",
+        "label": "superstitious"
+    },
+    "0310": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0310.mp4",
+        "label": "superstitious"
+    },
+    "0298": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0298.mp4",
+        "label": "violent"
+    },
+    "0259": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0259.mp4",
+        "label": "violent"
+    },
+    "0270": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0270.mp4",
+        "label": "violent"
+    },
+    "0299": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0299.mp4",
+        "label": "violent"
+    },
+    "0306": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0306.mp4",
+        "label": "violent"
+    },
+    "0295": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0295.mp4",
+        "label": "violent"
+    },
+    "0296": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0296.mp4",
+        "label": "violent"
+    },
+    "0317": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0317.mp4",
+        "label": "superstitious"
+    },
+    "0316": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0316.mp4",
+        "label": "superstitious"
+    },
+    "0291": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0291.mp4",
+        "label": "violent"
+    },
+    "0293": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0293.mp4",
+        "label": "violent"
+    },
+    "0312": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0312.mp4",
+        "label": "superstitious"
+    },
+    "0283": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0283.mp4",
+        "label": "violent"
+    },
+    "0287": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0287.mp4",
+        "label": "violent"
+    },
+    "0268": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0268.mp4",
+        "label": "violent"
+    },
+    "0284": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0284.mp4",
+        "label": "violent"
+    },
+    "0272": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0272.mp4",
+        "label": "violent"
+    },
+    "0302": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0302.mp4",
+        "label": "superstitious"
+    },
+    "0279": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0279.mp4",
+        "label": "violent"
+    },
+    "0307": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0307.mp4",
+        "label": "superstitious"
+    },
+    "0265": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0265.mp4",
+        "label": "violent"
+    },
+    "0260": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0260.mp4",
+        "label": "violent"
+    },
+    "0257": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0257.mp4",
+        "label": "violent"
+    },
+    "0285": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0285.mp4",
+        "label": "violent"
+    },
+    "0262": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0262.mp4",
+        "label": "violent"
+    },
+    "0297": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0297.mp4",
+        "label": "violent"
+    },
+    "0286": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0286.mp4",
+        "label": "violent"
+    },
+    "0282": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0282.mp4",
+        "label": "violent"
+    },
+    "0266": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0266.mp4",
+        "label": "violent"
+    },
+    "0304": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0304.mp4",
+        "label": "violent"
+    },
+    "0269": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0269.mp4",
+        "label": "violent"
+    },
+    "0311": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0311.mp4",
+        "label": "superstitious"
+    },
+    "0300": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0300.mp4",
+        "label": "violent"
+    },
+    "0319": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0319.mp4",
+        "label": "superstitious"
+    },
+    "0261": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0261.mp4",
+        "label": "violent"
+    },
+    "0313": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0313.mp4",
+        "label": "superstitious"
+    },
+    "0258": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0258.mp4",
+        "label": "violent"
+    },
+    "0320": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0320.mp4",
+        "label": "violent"
+    },
+    "0292": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0292.mp4",
+        "label": "violent"
+    },
+    "0289": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0289.mp4",
+        "label": "violent"
+    },
+    "0280": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0280.mp4",
+        "label": "violent"
+    },
+    "0263": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0263.mp4",
+        "label": "violent"
+    },
+    "0267": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0267.mp4",
+        "label": "violent"
+    },
+    "0294": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0294.mp4",
+        "label": "violent"
+    },
+    "0309": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0309.mp4",
+        "label": "superstitious"
+    },
+    "0281": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0281.mp4",
+        "label": "violent"
+    },
+    "0314": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0314.mp4",
+        "label": "superstitious"
+    },
+    "0301": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0301.mp4",
+        "label": "superstitious"
+    },
+    "0315": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0315.mp4",
+        "label": "superstitious"
+    },
+    "0276": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0276.mp4",
+        "label": "violent"
+    },
+    "0278": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0278.mp4",
+        "label": "violent"
+    },
+    "0288": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0288.mp4",
+        "label": "violent"
+    },
+    "0303": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0303.mp4",
+        "label": "violent"
+    },
+    "0290": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0290.mp4",
+        "label": "violent"
+    },
+    "0274": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0274.mp4",
+        "label": "violent"
+    },
+    "0271": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0271.mp4",
+        "label": "violent"
+    },
+    "0273": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0273.mp4",
+        "label": "violent"
+    },
+    "0275": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/violent/0275.mp4",
+        "label": "violent"
+    },
+    "0305": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0305.mp4",
+        "label": "superstitious"
+    },
+    "0308": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0308.mp4",
+        "label": "superstitious"
+    },
+    "0360": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0360.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_009": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_009.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_013": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_013.mp4",
+        "label": "superstitious"
+    },
+    "0390": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0390.mp4",
+        "label": "superstitious"
+    },
+    "video_8_part_008": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_8_part_008.mp4",
+        "label": "superstitious"
+    },
+    "video_8_part_003": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_8_part_003.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_000": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_000.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_007": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_007.mp4",
+        "label": "superstitious"
+    },
+    "video_9_part_021": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_9_part_021.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_020": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_020.mp4",
+        "label": "superstitious"
+    },
+    "video_2_part_009": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_2_part_009.mp4",
+        "label": "superstitious"
+    },
+    "video_9_part_009": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_9_part_009.mp4",
+        "label": "superstitious"
+    },
+    "video_7_part_001": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_7_part_001.mp4",
+        "label": "superstitious"
+    },
+    "0397": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0397.mp4",
+        "label": "superstitious"
+    },
+    "0369": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0369.mp4",
+        "label": "superstitious"
+    },
+    "video_3_part_005": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_3_part_005.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_010": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_010.mp4",
+        "label": "superstitious"
+    },
+    "video_9_part_024": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_9_part_024.mp4",
+        "label": "superstitious"
+    },
+    "0365": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0365.mp4",
+        "label": "superstitious"
+    },
+    "video_9_part_025": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_9_part_025.mp4",
+        "label": "superstitious"
+    },
+    "0351": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0351.mp4",
+        "label": "superstitious"
+    },
+    "video_2_part_002": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_2_part_002.mp4",
+        "label": "superstitious"
+    },
+    "video_7_part_007": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_7_part_007.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_003": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_003.mp4",
+        "label": "superstitious"
+    },
+    "0334": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0334.mp4",
+        "label": "superstitious"
+    },
+    "0398": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0398.mp4",
+        "label": "superstitious"
+    },
+    "video_8_part_006": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_8_part_006.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_005": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_005.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_013": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_013.mp4",
+        "label": "superstitious"
+    },
+    "0370": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0370.mp4",
+        "label": "superstitious"
+    },
+    "0368": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0368.mp4",
+        "label": "superstitious"
+    },
+    "video_2_part_005": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_2_part_005.mp4",
+        "label": "superstitious"
+    },
+    "video_1_part_003": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_1_part_003.mp4",
+        "label": "superstitious"
+    },
+    "0333": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0333.mp4",
+        "label": "superstitious"
+    },
+    "0383": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0383.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_021": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_021.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_014": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_014.mp4",
+        "label": "superstitious"
+    },
+    "0380": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0380.mp4",
+        "label": "superstitious"
+    },
+    "0374": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0374.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_007": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_007.mp4",
+        "label": "superstitious"
+    },
+    "0350": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0350.mp4",
+        "label": "superstitious"
+    },
+    "video_1_part_005": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_1_part_005.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_001": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_001.mp4",
+        "label": "superstitious"
+    },
+    "video_9_part_020": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_9_part_020.mp4",
+        "label": "superstitious"
+    },
+    "video_8_part_002": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_8_part_002.mp4",
+        "label": "superstitious"
+    },
+    "0357": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0357.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_015": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_015.mp4",
+        "label": "superstitious"
+    },
+    "0379": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0379.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_001": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_001.mp4",
+        "label": "superstitious"
+    },
+    "video_2_part_000": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_2_part_000.mp4",
+        "label": "superstitious"
+    },
+    "video_1_part_001": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_1_part_001.mp4",
+        "label": "superstitious"
+    },
+    "0382": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0382.mp4",
+        "label": "superstitious"
+    },
+    "video_9_part_030": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_9_part_030.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_015": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_015.mp4",
+        "label": "superstitious"
+    },
+    "0331": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0331.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_002": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_002.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_002": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_002.mp4",
+        "label": "superstitious"
+    },
+    "0330": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0330.mp4",
+        "label": "superstitious"
+    },
+    "video_1_part_007": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_1_part_007.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_015": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_015.mp4",
+        "label": "superstitious"
+    },
+    "video_8_part_004": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_8_part_004.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_022": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_022.mp4",
+        "label": "superstitious"
+    },
+    "0322": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0322.mp4",
+        "label": "superstitious"
+    },
+    "0372": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0372.mp4",
+        "label": "superstitious"
+    },
+    "0358": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0358.mp4",
+        "label": "superstitious"
+    },
+    "0394": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0394.mp4",
+        "label": "superstitious"
+    },
+    "0363": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0363.mp4",
+        "label": "superstitious"
+    },
+    "0362": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0362.mp4",
+        "label": "superstitious"
+    },
+    "0389": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0389.mp4",
+        "label": "superstitious"
+    },
+    "0346": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0346.mp4",
+        "label": "superstitious"
+    },
+    "0321": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0321.mp4",
+        "label": "superstitious"
+    },
+    "0344": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0344.mp4",
+        "label": "superstitious"
+    },
+    "video_3_part_002": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_3_part_002.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_009": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_009.mp4",
+        "label": "superstitious"
+    },
+    "video_2_part_003": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_2_part_003.mp4",
+        "label": "superstitious"
+    },
+    "0378": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0378.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_008": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_008.mp4",
+        "label": "superstitious"
+    },
+    "0347": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0347.mp4",
+        "label": "superstitious"
+    },
+    "0353": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0353.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_012": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_012.mp4",
+        "label": "superstitious"
+    },
+    "video_3_part_006": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_3_part_006.mp4",
+        "label": "superstitious"
+    },
+    "0400": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0400.mp4",
+        "label": "superstitious"
+    },
+    "video_9_part_023": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_9_part_023.mp4",
+        "label": "superstitious"
+    },
+    "0345": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0345.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_010": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_010.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_014": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_014.mp4",
+        "label": "superstitious"
+    },
+    "0354": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0354.mp4",
+        "label": "superstitious"
+    },
+    "0337": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0337.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_006": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_006.mp4",
+        "label": "superstitious"
+    },
+    "0348": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0348.mp4",
+        "label": "superstitious"
+    },
+    "0373": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0373.mp4",
+        "label": "superstitious"
+    },
+    "0395": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0395.mp4",
+        "label": "superstitious"
+    },
+    "0385": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0385.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_003": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_003.mp4",
+        "label": "superstitious"
+    },
+    "0384": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0384.mp4",
+        "label": "superstitious"
+    },
+    "video_9_part_014": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_9_part_014.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_005": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_005.mp4",
+        "label": "superstitious"
+    },
+    "0336": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0336.mp4",
+        "label": "superstitious"
+    },
+    "0343": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0343.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_003": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_003.mp4",
+        "label": "superstitious"
+    },
+    "0332": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0332.mp4",
+        "label": "superstitious"
+    },
+    "video_1_part_004": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_1_part_004.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_007": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_007.mp4",
+        "label": "superstitious"
+    },
+    "0349": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0349.mp4",
+        "label": "superstitious"
+    },
+    "0356": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0356.mp4",
+        "label": "superstitious"
+    },
+    "video_7_part_003": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_7_part_003.mp4",
+        "label": "superstitious"
+    },
+    "video_6_part_004": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_6_part_004.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_016": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_016.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_000": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_000.mp4",
+        "label": "superstitious"
+    },
+    "video_9_part_017": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_9_part_017.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_017": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_017.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_013": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_013.mp4",
+        "label": "superstitious"
+    },
+    "0352": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0352.mp4",
+        "label": "superstitious"
+    },
+    "video_7_part_004": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_7_part_004.mp4",
+        "label": "superstitious"
+    },
+    "0326": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0326.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_006": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_006.mp4",
+        "label": "superstitious"
+    },
+    "video_9_part_033": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_9_part_033.mp4",
+        "label": "superstitious"
+    },
+    "0391": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0391.mp4",
+        "label": "superstitious"
+    },
+    "0359": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0359.mp4",
+        "label": "superstitious"
+    },
+    "video_2_part_007": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_2_part_007.mp4",
+        "label": "superstitious"
+    },
+    "video_7_part_000": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_7_part_000.mp4",
+        "label": "superstitious"
+    },
+    "0325": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0325.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_004": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_004.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_017": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_017.mp4",
+        "label": "superstitious"
+    },
+    "0381": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0381.mp4",
+        "label": "superstitious"
+    },
+    "0329": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0329.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_011": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_011.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_008": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_008.mp4",
+        "label": "superstitious"
+    },
+    "video_5_part_018": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_5_part_018.mp4",
+        "label": "superstitious"
+    },
+    "0392": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0392.mp4",
+        "label": "superstitious"
+    },
+    "video_8_part_001": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_8_part_001.mp4",
+        "label": "superstitious"
+    },
+    "0393": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0393.mp4",
+        "label": "superstitious"
+    },
+    "0324": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/0324.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_012": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_012.mp4",
+        "label": "superstitious"
+    },
+    "video_7_part_002": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_7_part_002.mp4",
+        "label": "superstitious"
+    },
+    "video_4_part_004": {
+        "url": "/home/anhkhoa/spark_video_streaming/data/train/superstitious/video_4_part_004.mp4",
+        "label": "superstitious"
+    }
+}
