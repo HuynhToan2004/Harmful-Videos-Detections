@@ -38,7 +38,6 @@ The model is evaluated using **Precision, Recall, and F1-score** on the test set
 ### 🎯 **Overall Performance**
 - **Accuracy:** **83.12%**
 - **Macro F1-score:** **82%**
-- **Weighted F1-score:** **83%**
 
 📌 *The model performs well for "offensive" and "horrible" categories but requires improvement for the "pornographic" class.*
 
